@@ -22,5 +22,5 @@ Find the recipes [here!]
 [issue]: <https://github.com/ziroau/Medcraft/issues>
 [here!]: <https://medcraft.ziroau.com/recipes>
 
-<img width="500" alt="coffee_blue" src="https://www.ziroau.com/img/buttons/coffee_blue.png">
+<a href="https://ko-fi.com/ziroau"><img width="300" alt="coffee_blue" src="https://www.ziroau.com/img/buttons/coffee_blue.png"></a>
 
