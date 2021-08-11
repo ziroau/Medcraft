@@ -21,3 +21,6 @@ Find the recipes [here!]
 [1.16.5]: <https://github.com/ziroau/Medcraft/releases/tags/1.0>
 [issue]: <https://github.com/ziroau/Medcraft/issues>
 [here!]: <https://medcraft.ziroau.com/recipes>
+
+<img width="500" alt="coffee_blue" src="https://www.ziroau.com/img/buttons/coffee_blue.png">
+
