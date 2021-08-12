@@ -12,7 +12,7 @@ Please create an [issue] on the Github page if you find any issues/bugs.
 You can also view the source code there!
 https://github.com/ziroau/Medcraft/issues
 
-If you would like to mod to be updated to a new version of Minecraft/Forge and it isn't immediately obvious I'm already working on it:
+If you would like the mod to be updated to a new version of Minecraft/Forge and it isn't immediately obvious I'm already working on it:
 Please ping me on Discord: `ziro#1234`
 
 FYI, You are allowed to use this in your modpack, as long as you credit appropriately :)<br>
