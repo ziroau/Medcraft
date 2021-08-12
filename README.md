@@ -4,8 +4,7 @@
 **Medcraft** is focused on adding more and inventive ways to medicate in Minecraft.
 This mod can be especially useful for modpacks when fighting more powerful mobs and gives more incentive to stock up on medical & stat changing items.
 
-### Download
-##### [1.16.5]
+<a href="https://github.com/ziroau/Medcraft/releases"><button class="home">Download</button></a> <a href="/recipes"><button class="home">Recipes</button></a> <a href="https://github.com/ziroau/Medcraft/issues"><button class="home">Support</button></a> <a href="https://github.com/ziroau/Medcraft/wiki"><button class="home">Wiki</button></a>
 
 ### Support
 Please create an [issue] on the Github page if you find any issues/bugs. I doubt there will be any.
