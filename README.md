@@ -1,4 +1,4 @@
-# Medcraft
+<img src="https://github.com/ziroau/Medcraft/blob/gh-pages/img/logos/Medcraft.png?raw=true">
 ---
 **Medcraft** is focused on adding more and inventive ways to medicate in Minecraft.
 This mod can be especially useful for modpacks when fighting more powerful mobs and gives more incentive to stock up on medical & stat changing items.
