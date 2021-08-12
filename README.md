@@ -1,3 +1,5 @@
+- This repository is still work in progress. 
+
 <img src="https://github.com/ziroau/Medcraft/blob/gh-pages/img/logos/Medcraft.png?raw=true">
 <hr>
 <strong>Medcraft</strong> is focused on adding more and inventive ways to medicate in Minecraft.
