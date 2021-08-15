@@ -1,0 +1,16 @@
+{
+  "group": "medcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "medcraft:white_capsule"
+    },
+    {
+      "item": "minecraft:red_mushroom"
+    }
+  ],
+  "result": {
+    "item": "medcraft:red_capsule",
+    "count": 1
+  }
+}

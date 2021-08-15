@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "medcraft:bandaid"
+    },
+    "title": {
+      "translate": "advancements.in_inventory_bandaid.title"
+    },
+    "description": {
+      "translate": "advancements.in_inventory_bandaid.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "in_inventory_bandaid": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "medcraft:bandaid",
+            "count": {
+              "min": 1,
+              "max": 1000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 2
+  },
+  "parent": "medcraft:med_initial_advancement"
+}

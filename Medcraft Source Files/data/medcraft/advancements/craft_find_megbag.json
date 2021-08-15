@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "medcraft:medbag"
+    },
+    "title": {
+      "translate": "advancements.craft_find_megbag.title"
+    },
+    "description": {
+      "translate": "advancements.craft_find_megbag.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "craft_find_megbag": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "medcraft:medbag",
+            "count": {
+              "min": 1,
+              "max": 1000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "medcraft:craft_or_find_plain_capsule"
+}

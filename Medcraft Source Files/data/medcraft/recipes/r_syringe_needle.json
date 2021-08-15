@@ -1,0 +1,16 @@
+{
+  "group": "medcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "item": "minecraft:iron_nugget"
+    }
+  ],
+  "result": {
+    "item": "medcraft:syringe_needle",
+    "count": 2
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "group": "medcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "medcraft:white_capsule"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:blue_dye"
+    }
+  ],
+  "result": {
+    "item": "medcraft:blue_capsule",
+    "count": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "medcraft:white_capsule"
+    },
+    "title": {
+      "translate": "advancements.craft_or_find_plain_capsule.title"
+    },
+    "description": {
+      "translate": "advancements.craft_or_find_plain_capsule.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "craft_or_find_plain_capsule": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "medcraft:white_capsule",
+            "count": {
+              "min": 1,
+              "max": 1000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 2
+  },
+  "parent": "medcraft:med_initial_advancement"
+}

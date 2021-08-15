@@ -1,0 +1,19 @@
+{
+  "group": "medcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "medcraft:white_capsule"
+    },
+    {
+      "item": "minecraft:green_dye"
+    },
+    {
+      "item": "minecraft:gold_nugget"
+    }
+  ],
+  "result": {
+    "item": "medcraft:green_capsule",
+    "count": 1
+  }
+}

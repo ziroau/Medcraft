@@ -1,0 +1,22 @@
+{
+  "group": "medcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "medcraft:empty_syringe"
+    },
+    {
+      "item": "minecraft:oak_leaves"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "medcraft:deleted_mod_element",
+    "count": 1
+  }
+}

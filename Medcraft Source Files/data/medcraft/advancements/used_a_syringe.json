@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "item": "medcraft:empty_syringe"
+    },
+    "title": {
+      "translate": "advancements.used_a_syringe.title"
+    },
+    "description": {
+      "translate": "advancements.used_a_syringe.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "used_a_syringe": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "medcraft:health_syringe"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 2
+  },
+  "parent": "medcraft:med_initial_advancement"
+}

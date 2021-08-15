@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "medcraft:green_capsule"
+    },
+    "title": {
+      "translate": "advancements.eat_green_capsule_nether.title"
+    },
+    "description": {
+      "translate": "advancements.eat_green_capsule_nether.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "eat_green_capsule_nether": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 3
+  },
+  "parent": "medcraft:craft_find_megbag"
+}

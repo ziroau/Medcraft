@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="GNU GENERAL PUBLIC LICENSE"
+
+[[mods]]
+modId="medcraft"
+version="1.0.0"
+displayName="Medcraft"
+displayURL="https://medcraft.ziroau.com/"
+authors="ziroAU"
+
+[[dependencies.medcraft]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+    description='''
+    Medcraft is focused on adding more and inventive ways to medicate in Minecraft. This mod can be especially useful for modpacks when fighting more powerful mobs and gives more incentive to stock up on medical & stat changing items.
+    '''
+
+
+

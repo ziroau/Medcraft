@@ -1,0 +1,36 @@
+{
+  "group": "medcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:white_wool"
+    },
+    "1": {
+      "item": "minecraft:golden_carrot"
+    },
+    "2": {
+      "item": "minecraft:white_wool"
+    },
+    "3": {
+      "item": "minecraft:white_wool"
+    },
+    "4": {
+      "item": "minecraft:chest"
+    },
+    "5": {
+      "item": "minecraft:white_wool"
+    },
+    "7": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "result": {
+    "item": "medcraft:medbag",
+    "count": 2
+  }
+}

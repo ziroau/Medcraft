@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "medcraft:red_capsule"
+    },
+    "title": {
+      "translate": "advancements.neg_effects_capsule_a.title"
+    },
+    "description": {
+      "translate": "advancements.neg_effects_capsule_a.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "neg_effects_capsule_a": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 2
+  },
+  "parent": "medcraft:craft_or_find_plain_capsule"
+}

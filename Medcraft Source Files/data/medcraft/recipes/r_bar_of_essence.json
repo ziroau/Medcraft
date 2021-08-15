@@ -1,0 +1,16 @@
+{
+  "group": "medcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "medcraft:essence_1"
+    },
+    {
+      "item": "medcraft:essence_1"
+    }
+  ],
+  "result": {
+    "item": "medcraft:bar_of_blue_essence",
+    "count": 1
+  }
+}

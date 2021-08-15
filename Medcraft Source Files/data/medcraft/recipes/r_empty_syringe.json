@@ -1,0 +1,24 @@
+{
+  "group": "medcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stick"
+    },
+    "1": {
+      "item": "medcraft:syringe_tube"
+    },
+    "2": {
+      "item": "medcraft:syringe_needle"
+    }
+  },
+  "result": {
+    "item": "medcraft:empty_syringe",
+    "count": 1
+  }
+}
